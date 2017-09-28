@@ -7,8 +7,9 @@ import (
 
 func main() {
 	j0 := "god"
-	if isGod(j0) {
-		fmt.Println("Hello, 露天")
+	if isGod(j0)
+  {
+		fmt.Println("J0 is god?")
 	}
 }
 
